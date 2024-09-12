@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5913f12a-4a42-4e2f-a947-fe2e95d754bb" name="Changes" comment="" />
+    <list default="true" id="5913f12a-4a42-4e2f-a947-fe2e95d754bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/MsProductsApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/config/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/controller/CategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/controller/ReviewController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/domain/entity/category/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/domain/entity/category/CategoryDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/domain/entity/product/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/domain/entity/product/ProductDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/domain/entity/product/StockDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/domain/entity/review/Review.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/domain/entity/review/ReviewDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/domain/repository/CategoryRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/domain/repository/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/domain/repository/ReviewRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/exception/CustomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/exception/RestExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/exception/RestExceptionTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/service/CategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/br/com/jdlm/product_service/service/ReviewService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/test-classes/br/com/jdlm/ms_products/MsProductsApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/test-classes/br/com/jdlm/product_service/MsProductsApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +52,9 @@
         <option value="Record" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -37,33 +73,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Docker.ms-product: Compose Deployment.executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.MsProductApplication.executor&quot;: &quot;Run&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jailt/Documents/Programação/Portifólio/3 - Projetos Avançados/E-commerce/backend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.ms-product: Compose Deployment.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.MsProductApplication.executor": "Run",
+    "Spring Boot.MsProductsApplication.executor": "Run",
+    "Spring Boot.StockServiceApplication.executor": "Run",
+    "Spring Boot.UserServiceApplication.executor": "Run",
+    "git-widget-placeholder": "FEAT__client-service",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jailt/Documents/Programação/Portifólio/3 - Projetos Avançados/E-commerce/backend/user-service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "copyright",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Spring Boot.MsProductApplication">
-    <configuration name="MsProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserServiceApplication">
+    <configuration name="MsProductsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="ms-product" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jjdev.ms_product.MsProductApplication" />
+      <module name="product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.jdlm.product_service.MsProductsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="stock-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.jdlm.stock_service.StockServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.jjdev.user_service.UserServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,19 +144,6 @@
       </deployment>
       <method v="2" />
     </configuration>
-    <configuration name="ms-product: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
-      <deployment type="docker-compose.yml">
-        <settings>
-          <option name="sourceFilePath" value="ms-product/docker-compose.yml" />
-        </settings>
-      </deployment>
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Docker.ms-product: Compose Deployment" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -105,10 +162,30 @@
       <updated>1724941050518</updated>
       <workItem from="1724941051591" duration="644000" />
       <workItem from="1724959299562" duration="9023000" />
+      <workItem from="1726143423219" duration="480000" />
+      <workItem from="1726143911107" duration="499000" />
+      <workItem from="1726144416630" duration="16000" />
+      <workItem from="1726144507975" duration="145000" />
+      <workItem from="1726144674631" duration="309000" />
+      <workItem from="1726144991009" duration="507000" />
+      <workItem from="1726145508359" duration="478000" />
+      <workItem from="1726145996350" duration="94000" />
+      <workItem from="1726146234982" duration="537000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

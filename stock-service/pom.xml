@@ -12,7 +12,7 @@
 	<artifactId>stock-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>stock-service</name>
-	<description>Stock microsservice for a e-commerce  on professional practice project</description>
+	<description>Stock microsservice for a e-commerce on professional practice project</description>
 	<url/>
 	<licenses>
 		<license/>
